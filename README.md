@@ -1,2 +1,2 @@
 # burget-alert
-Military-grade radar for retards. (Burgers)
+Military-grade radar for targets. (roblox)
